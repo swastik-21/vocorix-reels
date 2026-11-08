@@ -1,0 +1,31 @@
+name: Render Vokero stitch Reel
+on:
+  push:
+    paths:
+      - scripts/vokero_stitch_20261108.py
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install video renderer
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg python3-pil python3-numpy fonts-dejavu-core
+          sudo mkdir -p /mnt/data
+          sudo chmod 777 /mnt/data
+      - name: Render original Reel
+        run: /usr/bin/python3 scripts/vokero_stitch_20261108.py
+      - name: Make MP4 and cover publicly accessible
+        run: |
+          cp /mnt/data/vokero_stitch_hook_reel.mp4 ./vokero_stitch_hook_reel.mp4
+          cp /mnt/data/vokero_stitch_cover.jpg ./vokero_stitch_cover.jpg
+          git config user.name "Vokero Reel Automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add vokero_stitch_hook_reel.mp4 vokero_stitch_cover.jpg
+          git commit -m "Render Vokero stitch-hook Reel" || true
+          git push
