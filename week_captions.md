@@ -45,3 +45,28 @@ Save this for the next time you're "in a closing."
 Comment "VOX" or hear it live: +1 (469) 430-0712
 
 #LoanOfficer #MortgageBroker #SpeedToLead #AIReceptionist #LeadFollowUp
+
+## thu1 · Thu Nov 12 9:30 AM ET · wk_thu1.mp4
+Get ready with me: AI receptionist edition. ☕
+
+Headset on. CRM synced. Calendar open. Every lead's number loaded. By 6:58 AM the first new mortgage lead of the day is answered and booked, before the office lights are on.
+
+VOX is an AI receptionist for loan officers and real estate teams. It answers and calls back every lead in seconds, then books them on your calendar.
+
+Comment "VOX" or hear it answer live: +1 (469) 430-0712
+
+#AIReceptionist #LoanOfficerLife #MortgageLeads #SpeedToLead #RealEstateLeads
+
+## thu2 · Thu Nov 12 1:30 PM ET · wk_thu2.mp4
+Every office with "phone hours" be like… 📵
+
+"Sorry, we only answer calls between 10:12 and 10:14." Buyers don't call on a schedule, and the lender who picks up first usually gets the conversation.
+
+With VOX, every call gets answered: 10:15 AM, 2:47 AM, Sunday at 7:30 PM. Qualified and booked on your calendar.
+
+Tag the office that still has "phone hours" 👇
+Comment "VOX" or call it anytime: +1 (469) 430-0712
+
+(A sketch. Characters are fictional.)
+
+#MortgageHumor #LoanOfficerLife #RealtorHumor #AIReceptionist #MissedCalls
